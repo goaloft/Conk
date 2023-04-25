@@ -1,0 +1,4 @@
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib\obj\Debug\netcoreapp3.1\CalculationLib.csprojAssemblyReference.cache
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib\obj\Debug\netcoreapp3.1\CalculationLib.AssemblyInfoInputs.cache
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib\obj\Debug\netcoreapp3.1\CalculationLib.AssemblyInfo.cs
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib\obj\Debug\netcoreapp3.1\CalculationLib.csproj.CoreCompileInputs.cache

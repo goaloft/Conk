@@ -1,0 +1,6 @@
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib1\bin\Debug\CalculationLib1.dll
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib1\bin\Debug\CalculationLib1.pdb
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib1\obj\Debug\CalculationLib1.csprojAssemblyReference.cache
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib1\obj\Debug\CalculationLib1.csproj.CoreCompileInputs.cache
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib1\obj\Debug\CalculationLib1.dll
+D:\Users\meshkov.ia1637\source\repos\Calculator\CalculationLib1\obj\Debug\CalculationLib1.pdb
